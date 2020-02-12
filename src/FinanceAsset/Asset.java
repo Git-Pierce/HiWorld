@@ -1,5 +1,8 @@
 package FinanceAsset;
-
+// this package has been committed to GitHub
+// this is just a test change to the file
+//
+// this change was made on Feb 12, 2020
 public abstract class Asset {
     // private variables
     private String symbol;
